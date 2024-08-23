@@ -1,5 +1,5 @@
 six
-sklearn
+scikit_learn
 nltk
 imblearn
 pandas
